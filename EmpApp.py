@@ -2,7 +2,7 @@ from flask import Flask, render_template, request
 from pymysql import connections
 import os
 import boto3
-from config import *
+from config import * 
 
 app = Flask(__name__)
 
@@ -28,7 +28,7 @@ def home():
 
 @app.route("/about", methods=['POST'])
 def about():
-    return render_template('www.intellipaat.com')
+    return render_template('www.google.com')
 
 
 @app.route("/addemp", methods=['POST'])
