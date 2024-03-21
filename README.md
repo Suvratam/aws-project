@@ -5,7 +5,7 @@
 
 ## Screenshots
 
-![screenshot](Working Model.png)
+![screenshot](/aws-project/Working Model.png)
 
 ## Badges
 
