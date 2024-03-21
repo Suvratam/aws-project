@@ -4,6 +4,11 @@ import os
 import boto3
 from config import * 
 
+class MyFlask(Flask):
+    def make_response(self, rv):
+        if not rv:
+            return super().make_response("Any String")
+        return super().make_response(rv) 
 app = Flask(__name__)
 
 bucket = custombucket

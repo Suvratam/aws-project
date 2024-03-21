@@ -1,6 +1,6 @@
 customhost = "database-1.cveskcg446wz.us-west-2.rds.amazonaws.com"
 customuser = "admin"
-custompass = ""
+custompass = "$uvratam1"
 customdb = "employee"
 custombucket = "employee-db-bucket"
-customregion = "us-west-2d"
+customregion = "us-west-2"
