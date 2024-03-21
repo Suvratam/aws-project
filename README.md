@@ -4,8 +4,8 @@
  Deploying end-to-end web-application hosting.
 
 ## Screenshots
+![Untitled Diagram drawio](https://github.com/Suvratam/aws-project/assets/32219932/c778b521-531b-4c3a-975f-89f11ba1792a)
 
-![screenshot](/aws-project/Working Model.png)
 
 ## Badges
 
