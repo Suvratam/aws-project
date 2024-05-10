@@ -39,7 +39,7 @@ sudo python3 Empapp.py
 
 ## Optimizations
 
-What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
+What optimizations and same time by deployig into aws cloud.
 
 
 
